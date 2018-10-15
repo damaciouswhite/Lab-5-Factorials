@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_Factorial", "Lab5_Factorial\Lab5_Factorial.csproj", "{D8EABB7E-902E-48D6-A6D7-C3E41A964BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8EABB7E-902E-48D6-A6D7-C3E41A964BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EABB7E-902E-48D6-A6D7-C3E41A964BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EABB7E-902E-48D6-A6D7-C3E41A964BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EABB7E-902E-48D6-A6D7-C3E41A964BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

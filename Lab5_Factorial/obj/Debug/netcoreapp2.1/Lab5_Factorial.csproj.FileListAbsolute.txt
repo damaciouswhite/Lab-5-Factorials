@@ -1,0 +1,11 @@
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/obj/Debug/netcoreapp2.1/Lab5_Factorial.csprojAssemblyReference.cache
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/obj/Debug/netcoreapp2.1/Lab5_Factorial.csproj.CoreCompileInputs.cache
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/obj/Debug/netcoreapp2.1/Lab5_Factorial.AssemblyInfoInputs.cache
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/obj/Debug/netcoreapp2.1/Lab5_Factorial.AssemblyInfo.cs
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/bin/Debug/netcoreapp2.1/Lab5_Factorial.deps.json
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/bin/Debug/netcoreapp2.1/Lab5_Factorial.runtimeconfig.json
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/bin/Debug/netcoreapp2.1/Lab5_Factorial.runtimeconfig.dev.json
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/bin/Debug/netcoreapp2.1/Lab5_Factorial.dll
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/bin/Debug/netcoreapp2.1/Lab5_Factorial.pdb
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/obj/Debug/netcoreapp2.1/Lab5_Factorial.dll
+/Users/Mace/Desktop/DotNET/Week1/Lab5/Lab5_Factorial/Lab5_Factorial/obj/Debug/netcoreapp2.1/Lab5_Factorial.pdb

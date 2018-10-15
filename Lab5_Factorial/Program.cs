@@ -12,7 +12,7 @@ namespace Lab5_Factorial
             Console.WriteLine("Lab 5 Factorials");
         Found:
             Console.WriteLine("Please Enter an Integer 1-10");
-            UserNumber = Convert.ToInt32(Console.ReadLine());
+            UserNumber = (int)Convert.ToInt64(Console.ReadLine());
             for (i = 1; i <= UserNumber; i++)
                 f = f * i;
 
